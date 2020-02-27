@@ -10,7 +10,7 @@ For this project you will use `Test Driven Development` to create a RESTful API 
 
 # Planning
 
-##Features
+## Features
 
 -resources `nba teams` & `players`
 -list of teams
@@ -28,12 +28,14 @@ For this project you will use `Test Driven Development` to create a RESTful API 
 | Add a player to team     | POST   | /api/team/:id               |
 | delete players from team | DELETE | /api/teams/:id/players/:id  |
 
-##Teams
+## Teams
+
 -id
 -name
 
 
-##Players
+## Players
+
 -id
 -name
 -position
